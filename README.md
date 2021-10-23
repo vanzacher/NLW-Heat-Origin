@@ -6,7 +6,7 @@ Crachá virtual criado na trilha Origin na NLW Heat.
 
 Spoiler:
 
-![Web 1](https://github.com/vanzacher/NLW-Heat-Origin/blob/main/images/Print.png)
+![Image_Spoiler](https://github.com/vanzacher/NLW-Heat-Origin/blob/main/images/NewPrint.png)
 
 ## Executando 
 
