@@ -25,6 +25,7 @@ main {
   box-shadow: inset 0 0 1em #ffd700, 0 0 1em #ff0000;
 }
 
+/* Desktop */
 @media (min-width: 960px) {
   main {
     background: url(images/background.svg);
